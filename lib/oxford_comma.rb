@@ -13,6 +13,5 @@ def oxford_comma(array)
       end #if
     end #each
     oxford_array
-  end
-
-end
+  end #if
+end #oxford_comma
