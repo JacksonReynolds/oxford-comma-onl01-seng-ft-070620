@@ -12,6 +12,6 @@ def oxford_comma(array)
         oxford_array.push("#{word}, ")
       end #if
     end #each
-    oxford_array
+    oxford_array.join
   end #if
 end #oxford_comma
